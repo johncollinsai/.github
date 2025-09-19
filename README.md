@@ -30,7 +30,7 @@ Deep Vertical AI is an AI boutique consultancy that architects bespoke financial
 
 ## VERA: Reference Architecture, Not Product
 
-`https://deepvertical.ai/vera`
+https://deepvertical.ai/vera
 
 ### What VERA Actually Is
 VERA (Vertical Enhanced Reasoning Architecture) is our flagship **reference architecture** that serves as the blueprint for every bespoke system we build. It is NOT a product clients can purchase or hosted service they can access.
